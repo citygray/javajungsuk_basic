@@ -1,4 +1,4 @@
-package collection;
+package ch11_collection;
 
 import java.util.Set;
 import java.util.TreeSet;
